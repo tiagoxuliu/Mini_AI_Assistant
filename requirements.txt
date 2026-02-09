@@ -1,0 +1,20 @@
+# Core LangChain
+langchain>=0.1.0
+langchain-community>=0.0.1
+langchain-huggingface>=0.0.1
+langchain-text-splitters>=0.0.1
+
+# Vector Database
+faiss-cpu>=1.7.4
+
+# Embeddings
+sentence-transformers>=2.2.0
+
+# Document Processing
+PyPDF2>=3.0.0
+
+# LLM Integration
+ollama>=0.1.0
+
+# Utilities
+numpy>=1.24.0
